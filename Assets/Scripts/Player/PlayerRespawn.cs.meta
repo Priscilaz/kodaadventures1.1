@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 8790151b01b886b428150b54bd0cdeef
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - checkpointSound: {fileID: 8300000, guid: cfce0cea076109f478783201b2a9f57f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
